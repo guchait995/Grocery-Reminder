@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "572827823503",
+    "firebase_url": "https://manishaboutique-a299d.firebaseio.com",
+    "project_id": "manishaboutique-a299d",
+    "storage_bucket": "manishaboutique-a299d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572827823503:android:85a9e28235a897cc",
+        "android_client_info": {
+          "package_name": "dao.manishasah.com.manishaboutique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572827823503-hl1jmscp6j1d9gc78t78j027kk5tbr7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dao.manishasah.com.manishaboutique",
+            "certificate_hash": "c356a3a6b7576859a2e83856026bea96059726d7"
+          }
+        },
+        {
+          "client_id": "572827823503-8l96m6t7nq7b4j7pq79kqss9e9h46bbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv8vgncfJ-dIJ8MjMl79_TX3YB1uJvT3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572827823503-8l96m6t7nq7b4j7pq79kqss9e9h46bbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

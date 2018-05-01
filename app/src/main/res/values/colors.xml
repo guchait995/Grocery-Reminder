@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9b5723</color>
+    <color name="colorPrimaryDark">#4b2f22</color>
+    <color name="colorAccent">#530a0a</color>
+    <color name="transparent_white">#90ffffff</color>
+
+    <color name="action_yellow">#faf54c</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="splash">#652f3d</color>
+    <color name="tint">#8a000000</color>
+    <color name="md_black_500">#505050</color>
+
+    <color name="md_black_700">#000000</color>
+
+    <color name="md_green_500">#236e34</color>
+
+    <color name="md_green_700">#0f3016</color>
+    <color name="fullTransparent">#00f6f6f6</color>
+</resources>

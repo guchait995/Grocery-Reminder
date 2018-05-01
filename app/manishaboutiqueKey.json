@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "manishaboutique-a299d",
+  "private_key_id": "243b38a0b7c4a5f8edafd5a8d20bd1b8dd5ceae8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1nYzvuxX58F35\nG83mZIye0qo2sOl4QxP/qA36pNeV518fE5oT6uPV2FhdErRRT7SZoBqRcQu8y4mb\nrDU2WUei1YyCXpCHCvyuR9qGPzlPcXqn4bCle7EBDMEjpNvlxSrERTSt4evFQe8b\nRuz2F04vqmiAndwF/4ZrGRkHBEqzATCXRFcm3VZxNMHDcef56y51da6TISi0Wfct\nhRcpCwPDmRhYH6VkcSKF8X9xcVD/dLI1Lbrpil+FuKnF0zpVGcQZrF/tsnNqGV7E\nSr9xVIsL6mX6YYZDuJ4/ZaxSg9tLVmzoywvHSBYxXv7Z+M3TMtz24sTvCKmw6+xu\nZjkii277AgMBAAECggEAHkLqQOfDean7fo6LeGA4rh4cDpDb1hYXNvohmintYiTz\nTJJPkhIJdJBf6OI8+W92gEKVKrbTZdnkS/QdybiGnzNF/lMTcez6vW9rkgLm4b3e\n2ipY7Ln3fF1LsUy+90IrJhkB9hc22d9qn/jpcvffJ0IVt5iWGMnC9AVyjiDA8aJx\nMDW4AWl9IQ0I1RfIPveQU/ZQIbVaM/3G3ScPGQUnahAdnx3c9oXqyU4V6XQDHr+b\n+otpFutZMKcOhzW7cPBoV8sLInjEkEEAt6vGyWhASsrYW5UO2rs/vA2pWOiitPAY\n56uFIKEOkR+s4t6xJQVcnjJsGspa+0OPMSNxzRPXQQKBgQDhjrRK94VOZqBZ7lyZ\nQc25JQIvQhHwiTxWefoXtQakEPB0WWq/BhHE7auvgVwYccFwINrOepORqsXtIA3F\nZDSv2Dn4tpsT3PiYrihLKiOfwhQQJ6+PZk4/X5fNUr6ZRwFbb//qchczf3wop7p/\n2lCCOXdJWtfifPRe+L94V5FozQKBgQDOIJgbZYJzcg3kIBZOv58RpRDwmAK/64nG\nVFGCW7lYZua5xKxdW33npZFpXHBy0McS9HSYu8D51bDtczi8PVLDazCxiqUuM+nM\n0oNDlQuOwcsCNue7mvmZB5/7uiUCTujnp5OBEkeY8DFHCgZSYuHw4XN+RRUS1vp+\n6I4dnaVW5wKBgQDaot80g7VeB7CLO7fafqSRQMRbVqnZBM3N7TJ05G5pfln2De6g\n95slzlPLLZM9xpaAv/gYiUyduHFepuFyYu2HPgsDgM3VdS4roTVBlrktVIzqE+3j\nDIHwgBK/XeOO4/r2zRu9/5Vpv7t0FRF8ePvtHxL3sezth73AiVHfrtIuSQKBgEq9\nUMnmRaW8fkLwS4ZkPrY0Ju9F/wE902gBXMiqn4rpTNGg+WqkaQOcahxM80z+XKCH\n2NskgPVVwWBnvfOrPJ40+KP3hKs7EZQ95HCV02oA5K454E6LA+Oz+xNYTGEI4bRV\nc8uCKEnRFd0PSnmG9yvTY4AuZlS9dHidtCIS7keTAoGAUykRbIwRwSbdrps/xS8Z\nCKTUia3mlNL5kvAnn2OZqxPK9LDymsfzXV3J7L5925BSs/Kx2B1RpKYmXfG/P1Yg\nOGgHlPHXWY+fsGknKMRZSWIrPsl99YdNYMvLwqfeUy3jde0KK3q84dXbowH4IGzc\nAx6QmTHW6Dkw6dDo+fWYSbU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-z8exo@manishaboutique-a299d.iam.gserviceaccount.com",
+  "client_id": "110307025008981474232",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-z8exo%40manishaboutique-a299d.iam.gserviceaccount.com"
+}
